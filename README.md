@@ -45,7 +45,7 @@ This repository contains the code for the simulations used in the article "Stati
      - `fig15.py`: Generates Fig. 15.
      - `fig16.py`: Generates Fig. 16.
     
-## Missing files
+## Result files
 Some of the data files required to produce the results are not included in the repository directly (due to large file sizes) but can be created by running the appropriate scripts. Note that some of the scripts are computationally heavy and based on multiprocessing. Please contact <tkal@es.aau.dk> to acquire the result files directly. 
        
 ## Dependencies
