@@ -1,0 +1,4 @@
+wideband_2d/const_loc_err/data/mod_idx_6_const_loc.pickle
+wideband_2d/crlb_loc_err/data/interval_6.pickle
+wideband_2d/crlb_loc_err/data/mod_idx_6.pickle
+*.pyc

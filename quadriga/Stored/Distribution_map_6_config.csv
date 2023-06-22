@@ -1,0 +1,11 @@
+scenario,3GPP_3D_UMi_LOS
+x_min,-70
+x_max,70
+y_min,-70
+y_max,70
+N_points_dist_map,10000
+N_side,100
+SC_lambda,5
+NumClusters,10
+N_BS,4
+frec,3600000000
