@@ -38,9 +38,12 @@ This repository contains the code for the simulations used in the article "Stati
    - `crlb_loc_err/`: Folder with the results under localization error based on Cramér Rao Lower bound in section III.F
      - `data/`: Folder with computed statistics and results
      - `rate_select_backoff.py`: Selects rate using the backoff approach.
-     - `rate_select_interval.py`: Selects rate using the interval approach. 
+     - `rate_select_interval.py`: Selects rate using the interval approach.
+     - `rate_select_distance.py`: Selects rate using the distance approach.
      - `fig_5_6.py`: Generates Fig. 5 and 6.
      - `fig7.py`: Generates Fig. 7.
+     - `fig15.py`: Generates Fig. 15.
+     - `fig16.py`: Generates Fig. 16.
        
 ## Dependencies
 The simulations are made with Python version `3.10.9`. See requirements.txt for required packages. 
